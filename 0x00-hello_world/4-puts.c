@@ -1,10 +1,11 @@
 #include <stdio.h>
 /**
-* a program that dispaly using puts command
-* return 0 at the end
-*/
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
-puts("\"Programming is like building a multilingual puzzle\n");
+puts("\"Programming is like building a multilingual puzzle");
 return(0);
 }
