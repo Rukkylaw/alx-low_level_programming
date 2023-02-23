@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * main - check the code
  *
@@ -6,14 +7,14 @@
  */
 void print_alphabet_x10(void)
 {
-char c = 'a';
+char k = 'a';
 int i;
-for(i=0; i<10;i++)
+for(i=0; i<10; i++)
 {
- while (c <= 'z')
+ while (k <= 'z')
  {
- _putchar(c);
- c++;
+ _putchar(k);
+ k++;
  }
  _putchar('\n');
 }
