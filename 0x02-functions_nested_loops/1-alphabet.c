@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - check the code
- *
+ * print_alphabet function print all the english alphabet in lower case 
  * Return: Always 0.
  */
 void print_alphabet(void)
