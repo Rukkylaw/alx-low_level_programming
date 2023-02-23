@@ -13,9 +13,3 @@ for (i='a'; 1<='z'; i++)
 }
 _putchar('\n');
 }
-
-int main()
-{
-print_alphabet();
-return (0);
-}
