@@ -1,1 +1,1 @@
-My first C programming
+pointer and array readme file
