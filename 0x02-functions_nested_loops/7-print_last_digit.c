@@ -1,6 +1,7 @@
 #include "main.h"
 /**
- * print_last_digit-prints the last digit of an interger using main.h header file
+ * print_last_digit-prints the last digit
+ * of an interger using main.h header file
  * int a - represents the int
  * Return:last digit.
  */
