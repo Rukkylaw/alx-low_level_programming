@@ -1,10 +1,12 @@
 #include "main.h"
+
 /**
- * main - check the code
- * add - add two integers and return result
- * Return: Always 0.
+ * add - Adds two integers and returns result.
+ *
+ * Return: result of sum
  */
-int add(int a, int b);
+
+int add(int a, int b)
 {
 return (a + b);
 }
