@@ -2,7 +2,7 @@
 /**
  * print_last_digit-prints the last digit
  * of an interger using main.h header file
- * int a - represents the int
+ * 'a' - represents the int
  * Return:last digit.
  */
 int print_last_digit(int a)
