@@ -3,7 +3,7 @@
 
 /**
  * main - check the code
- * _abs - compute absolute int value
+ * _abs(int r) - compute absolute int value
  * int r: define an int r
  * Return: r.
  */
@@ -11,10 +11,10 @@ int _abs(int r)
 {
 if (r < 0)
 {
-return -r;
+return (-r);
 }
 else
 {
-return r;
+return (r);
 }
 }
