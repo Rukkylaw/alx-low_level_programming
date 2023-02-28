@@ -4,13 +4,13 @@
  * @s: string of char 
  * Return: string length
  */
-int _strlen(char *c)
+int _strlen(char *s)
 {
 int slength = 0;
-while (*c != '\0')
+while (*s != '\0')
 {
 slength++;
-c++;
+s++;
 }
 return slength;
 }
