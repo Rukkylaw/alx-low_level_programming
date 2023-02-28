@@ -3,7 +3,7 @@
 
 /**
  * main - check the code
- * _abs(int r) - compute absolute int value
+ *_abs() - compute absolute int value
  * int r: define an int r
  * Return: r.
  */
